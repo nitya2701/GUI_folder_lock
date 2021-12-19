@@ -5,6 +5,6 @@ Python offers multiple options for developing GUI (Graphical User Interface). Ou
 To create a tkinter app:
 
 -----------------------------------------------------Importing the module – tkinter-----------------------------------------------------------------------
-Create the main window (container)
-Add any number of widgets to the main window
-Apply the event Trigger on the widgets.
+1.) Create the main window (container)
+2.) Add any number of widgets to the main window
+3.) Apply the event Trigger on the widgets.
